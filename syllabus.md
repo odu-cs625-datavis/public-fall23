@@ -174,6 +174,22 @@ If there are days on which the scheduled class meeting time is cancelled due to 
 
 Please be respectful of your classmates and instructor by minimizing distractions during class. Cell phones must be turned to silent during class.
 
+### Seeking Help
+
+The course Canvas site should be your first reference for questions about the class. If you have questions about course requirements or materials, post questions using the class Canvas Discussion Board. For extra help, attend office hours.
+
+### Use of ChatGPT and other AI Tools
+
+The use of ChatGPT or other AI tools is permitted *to some extent* in this class. These tools are being rapidly adopted, so it is important that you have some experience with their use. These tools are best used to help you work smarter, not do your work for you. Remember that an essential part of being in graduate school is to develop skills that you will need to be successful in the workplace. Using aids just to complete an assignment in the quest for high marks will not help you after you leave school.
+
+I encourage you to use these tools to help you deepen your understanding and to review material you find challenging. If you use them to blindly do your homework for you, your learning will suffer and it will be obvious. But, if you use them to help clarify misunderstandings as you go, you will work and learn faster and hopefully build a solid foundation.
+
+For all homework assignments, you must include a list of websites or other references that you consult in solving the assignment. This includes AI tools. Not only must you include the website for the tool, but you must include a link to, or screenshot of, the conversation you had with the tool. (ChatGPT has the option to create a link to a conversation.) You must also write out in your HW report the initial prompt that you used.
+
+See [Guidelines on the Use of ChatGPT in CS 625](chat-gpt.md) for further information about using these tools in class this semester.
+
+*Note that this does not mean that ChatGPT is acceptable for use in other courses. This policy applies only for CS 625.*
+
 ### Make-up Work
 
 Make-ups for graded activities are possible only with a valid written medical or university excuse. It is the student's responsibility to give the instructor the written excuse and to arrange for any makeup work to be done.  A makeup exam may be different (and possibly more difficult) than the regularly scheduled exam.
@@ -183,10 +199,6 @@ Make-ups for graded activities are possible only with a valid written medical or
 In compliance with PL94-142 and more recent federal legislation affirming the rights of disabled individuals, provisions will be made for students with special needs on an individual basis. The student must have been identified as special needs by the university and an appropriate letter must be provided to the course instructor. Provision will be made based upon written guidelines from the University's [Office of Educational Accessibility](https://www.odu.edu/accessibility). All students are expected to fulfill all course requirements.
 
 Students are encouraged to self-disclose disabilities that have been verified by the Office of Educational Accessibility by providing Accommodation Letters to their instructors early in the semester in order to start receiving accommodations. Accommodations will not be made until the Accommodation Letters are provided to instructors each semester.
-
-### Seeking Help
-
-The course Canvas site should be your first reference for questions about the class. If you have questions about course requirements or materials, post questions using the class Canvas Discussion Board. For extra help, attend office hours.
 
 ## Academic Integrity
 
