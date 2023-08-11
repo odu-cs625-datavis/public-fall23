@@ -1,5 +1,8 @@
 # ODU CS 625 - Data Visualization, Fall 2023 - M.C. Weigle
 
+Tues/Thurs 11am-12:15pm  
+[Batten Arts & Letters (BAL)](https://odu.edu/ts/labs-classrooms/technology-classrooms/bal) 2063
+
 ## Links
 
 * [Syllabus](syllabus.md)
