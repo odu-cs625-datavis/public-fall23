@@ -155,9 +155,9 @@ I reserve the right to specify that late submissions will not be accepted for pa
 |9| Oct 24, 26| Reduce Items, Exploratory Data Analysis (EDA) | Ch 13 (through 13.4.1)
 |10| Oct 31, Nov 2| Storytelling Vis |
 |11| Tue, Nov 7<br/>Thu, Nov 9| **NO CLASS - Election Day**<br/>**NO CLASS - *Work on Project***| |
-|12| Nov 14, 16| Visualization Literacy |
-|13| Tue, Nov 21<br/>Thu, Nov 23|**NO CLASS - *Work on Project***<br/>**NO CLASS - Thanksgiving Break** | |
-|14| Nov 28, 30| Multiple Views | Ch 12 (skip 12.4.4)
+|12| Nov 14, 16|  Multiple Views | Ch 12 (skip 12.4.4) |
+|13| Tue, Nov 21<br/>Thu, Nov 23|Visualization Literacy, p1<br/>**NO CLASS - Thanksgiving Break** | |
+|14| Tue, Nov 28<br/>Thu, Nov 30|Visualization Literacy, p2<br/>**NO CLASS - *Work on Project***| |
 |15| Dec 5, 7| Manipulate View | Ch 11 (through 11.5)|
 
 ## Course Policies
