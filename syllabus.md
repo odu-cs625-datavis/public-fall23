@@ -95,7 +95,7 @@ Your grade in this class will be based on the following components:
 
 **Learning Checks** - 10%
 
-* preparation for the next class meeting, submitted via Canvas before the class meeting time
+* preparation for the next class meeting, submitted via Canvas before the due date
 * I will not correct your answers, but correct answers with references to the textbook will be provided after the due date
 * rubric:
   * 0 - not submitted
