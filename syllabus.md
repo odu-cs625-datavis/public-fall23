@@ -1,6 +1,6 @@
 # CS 625, Fall 2023 Syllabus
 
-[Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs625-datavis/public-fall23/raw/main/syllabus.pdf)
+[Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs625-datavis/public-fall23-mcw/raw/main/syllabus.pdf)
 
 Tues/Thurs 11am-12:15pm  | [Batten Arts & Letters (BAL)](https://odu.edu/ts/labs-classrooms/technology-classrooms/bal) 2063
 
@@ -189,7 +189,7 @@ I encourage you to use these tools to help you deepen your understanding and to 
 
 For all homework assignments, you must include a list of websites or other references that you consult in solving the assignment. This includes AI tools. Not only must you include the website for the tool, but you must include a link to, or screenshot of, the conversation you had with the tool. (ChatGPT has the option to create a link to a conversation.) You must also write out in your HW report the initial prompt that you used.
 
-See [Guidelines on the Use of ChatGPT in CS 625](chat-gpt.md) for further information about using these tools in class this semester.
+See [Guidelines on the Use of ChatGPT in CS 625](https://github.com/odu-cs625-datavis/public-fall23-mcw/blob/main/chat-gpt.md) for further information about using these tools in class this semester.
 
 *Note that this does not mean that ChatGPT is acceptable for use in other courses. This policy applies only for CS 625.*
 
