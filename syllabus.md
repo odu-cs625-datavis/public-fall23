@@ -24,8 +24,9 @@ Tues/Thurs 11am-12:15pm  | [Batten Arts & Letters (BAL)](https://odu.edu/ts/labs
 Office hours are times that I set aside each week to meet with students and answer questions. No appointment is necessary. 
 
 My office hours will be:
-* in person (ECSB 3327): **TBA**
-* via Zoom: **TBA**, see Canvas for the link / students will be placed into the waiting room if I am already meeting with another student. 
+
+* Tuesdays, 9:30-10:30am in [ECSB](https://odu.edu/life/buildings/buildings/ecsb) 3327 (Dr. Weigle's office)
+* Fridays, 10-11am via Zoom - see [Canvas](https://canvas.odu.edu/courses/140707) for the link, students will be placed into the waiting room if I am already meeting with another student. 
 
 If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
 
