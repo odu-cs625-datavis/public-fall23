@@ -14,6 +14,8 @@ Tues/Thurs 11am-12:15pm
 
 ## Summary Schedule
 
+*This schedule will not be updated after the semester begins.  See the [Summary Schedule on Canvas](https://canvas.odu.edu/courses/140707) for the updated schedule.*
+
 |Week |Date|Topic| Textbook Reading|Resources and Assignments|
 |---|---|---|---|---|
 |1| Aug 29, 31| Introduction, What's Vis and Why Do It? | Ch 1| HW1 - Setup|
@@ -31,4 +33,3 @@ Tues/Thurs 11am-12:15pm
 |13 |Nov 21, 23|Tue: Visualization Literacy, p1<br/>Thu: **NO CLASS - Thanksgiving Break** | |
 |14| Nov 28, 30|Tue: Visualization Literacy, p2<br/>Thu: **NO CLASS - *Work on Project***|  | |
 |15| Dec 5, 7| Manipulate View | Ch 11<br/>(through 11.5) | |
-|| Fri, Dec 8|	*last day of classes* | |
