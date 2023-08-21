@@ -221,12 +221,7 @@ You should be working in the private GitHub repo that I created for you in the [
 
 If you are working locally, make sure that you have committed and pushed your local repo, including `HW1-report.md` and any images you reference, to GitHub. 
 
-Submit the URL of your report in Canvas:
+Submit the URL of your report (*not the URL of your repo*) in Canvas under HW1. This should be something like  
+https<nolink>://github.com/odu-cs625-datavis/fall23-mcw-*username*/blob/main/HW1-report.md
 
-* Click on HW1 under Week 1 in Canvas.
-* Under "Assignment Submission", click the "Write Submission" button.
-* Copy/paste the URL of your report into the edit box
-  * should be something like https<nolink>://github.com/odu-cs625-datavis/fall23-mcw-*username*/blob/main/HW1-report.md
-* Make sure to "Submit" your assignment.
-
-If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.
+*If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.*
