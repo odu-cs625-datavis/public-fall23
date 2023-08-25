@@ -71,3 +71,14 @@ You should always test out any code that AI tools provide to make sure that it's
 
 Prompt:  
 `Point out the grammatical or spelling errors in the following paragraph.`
+
+## For More Information
+
+I found the following resources interesting and informative, both related to the techology behind these new AI tools and ethical concerns around their use:
+
+* ["A jargon-free explanation of how AI large language models work"](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/), Timothy B. Lee and Sean Trott, ars technica, July 31, 2023.
+* ["Unpacking AI: "an exponential disruption" with Kate Crawford"](https://www.msnbc.com/msnbc-podcast/why-is-this-happening/unpacking-ai-exponential-disruption-kate-crawford-podcast-transcript-n1304427), Chris Hayes "Why is This Happening?" podcast, April 19, 2023.
+  * [More about Kate Crawford](https://www.katecrawford.net/about.html).
+* "A.I. and Stochastic Parrots with Emily Bender and Timnit Gebru" ([listen](https://www.podchaser.com/podcasts/factually-with-adam-conover-853712/episodes/ai-and-stochastic-parrots-with-170946764), [watch](https://www.youtube.com/watch?v=jAHRbFetqII)), Adam Conover "FACTUALLY" podcast, April 26, 2023.
+  * [Emily Bender](http://faculty.washington.edu/ebender/) is Professor at the University of Washington
+  * [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru) is the founder of the Distributed Artificial Intelligence Research Institute (DAIR) and was famously fired from Google for raising ethical questions about the use of AI.
