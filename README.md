@@ -9,8 +9,9 @@ Tues/Thurs 11am-12:15pm
 * [Course Materials on Canvas](https://canvas.odu.edu/courses/140707)
 * [Topic Objectives](objectives.md)
 * [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
-  * [TM VAD lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides) by Tamara Munzner (textbook author)
-  * [EB VAD lecture slides](http://bit.ly/lecture-slides-iv16) by [Enrico Bertini](http://enrico.bertini.io/), NYU
+  * [TM VAD lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides) by [Tamara Munzner](https://www.cs.ubc.ca/~tmm/) (textbook author)
+  * [EB VAD lecture slides](http://bit.ly/lecture-slides-iv16) by [Enrico Bertini](http://enrico.bertini.io/teaching), Northeastern Univ.
+  * [EB VAD lecture slides](https://drive.google.com/drive/folders/0B-9uY9BLNUVFajg1bGg5YWp3V0k?resourcekey=0-oGPCaVrsBUlpG52L1bUKGQ) - *temporary, in case the link above asks for login*
 
 ## Summary Schedule
 
