@@ -30,6 +30,8 @@ My office hours will be:
 
 If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
 
+Graduate Teaching Assistant: [Kritika Garg](https://github.com/kritikagarg), kgarg001 at odu.edu
+
 ## Course Objectives
 
 After completing this course, you should be able to do the following:
