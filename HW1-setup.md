@@ -110,7 +110,7 @@ It might be the case that your image is too large to be displayed well in your r
 
 Use the guides above to help you complete the following exercises in `HW1-report.md`:
 
-Create a bulleted list with at least 3 items.
+Create a bulleted list (not numbered) with at least 3 items.
 
 Write a single paragraph that demonstrates the use of *italics*, **bold**, ***bold italics***, `code`, and includes a link. The paragraph does not have to make sense.
 
