@@ -26,7 +26,7 @@ Office hours are times that I set aside each week to meet with students and answ
 My office hours will be:
 
 * Tuesdays, 9:30-10:30am in [ECSB](https://odu.edu/life/buildings/buildings/ecsb) 3327 (Dr. Weigle's office)
-* Fridays, 10-11am via Zoom - see [Canvas](https://canvas.odu.edu/courses/140707) for the link, students will be placed into the waiting room if I am already meeting with another student. 
+* Fridays, 2-3pm via Zoom - see [Canvas](https://canvas.odu.edu/courses/140707) for the link, students will be placed into the waiting room if I am already meeting with another student. 
 
 If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
 
