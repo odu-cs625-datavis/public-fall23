@@ -6,7 +6,7 @@ I've recently come across a couple nice examples of combining datasets in visual
 
 <img src="imgs/US-covid-metro.png" height="400"/>
 
-I saw this visualization through a [tweet by @agsciencewriter](https://twitter.com/agsciencewriter/status/1467521843162750976).  It's based on data from the CDC and can be reproduced at [Trends in COVID-19 Cases and Deaths in the United States, by County-level Population Factors](https://covid.cdc.gov/covid-data-tracker/#pop-factors_7daynewcases).
+I saw this visualization through a tweet by @agsciencewriter ([archived](http://web.archive.org/web/20220505120008/https://twitter.com/agsciencewriter/status/1467521843162750976)).  It's based on data from the CDC and can be reproduced at [Trends in COVID-19 Cases and Deaths in the United States, by County-level Population Factors](https://covid.cdc.gov/covid-data-tracker/#pop-factors_7daynewcases).
 
 Read the "Footnotes" section to understand where all of the data comes from and how it's calculated.
 
