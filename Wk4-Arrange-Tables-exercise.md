@@ -6,6 +6,8 @@ The goal of this exercise is to gain experience thinking about data types and pr
 
 We will be looking at data about recent college graduates, from <https://github.com/fivethirtyeight/data/tree/master/college-majors>. In particular, we will examine [recent-grads.csv](https://github.com/fivethirtyeight/data/blob/master/college-majors/recent-grads.csv), data about college graduates who are under 28 years old.  The attributes for this dataset are described in the table at <https://github.com/fivethirtyeight/data/blob/master/college-majors/readme.md>.
 
+Side note: The URL for the original data (in the fivethirtyeight GitHub) is no longer valid.  The PUMS data is now available at <https://www.census.gov/programs-surveys/acs/microdata.html> (2010-2012 [data](https://www.census.gov/programs-surveys/acs/microdata/access.2012.html), [documentation](https://www.census.gov/programs-surveys/acs/microdata/documentation.2012.html)).
+
 ## Group Exercise
 
 We'll gather in groups, and I'll give you 15 minutes for the initial questions.  Then we'll gather back to discuss and move forward. 
