@@ -64,7 +64,8 @@ Idiom: Bar Chart / Mark: Line
 
 **Creating Charts**
 
-* include an appropriately-sized image of and link to each chart you created
+* include an appropriately-sized image of each chart you created
+* include a link to each chart you created
     * Excel, Tableau - link to your spreadsheet/workbook in your GitHub repo
     * Vega-Lite - provide a link to your notebook (see ["Note about Using Observable"](#note-about-using-observable) for sharing instructions)
     * Seaborn in Google Colab - provide a link to your notebook (make sure to share with GTA and instructor) or link to your ipynb file in your GitHub repo
