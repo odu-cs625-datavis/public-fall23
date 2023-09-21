@@ -54,17 +54,19 @@ This page presents several examples of redesigning charts and considering the us
 
 **Q:** *How easy is it to see these points from the original chart?*
 
+**NOTE: *Category labels on original charts (in the blog post) are incorrect.***  I've included corrected versions here.
+
 |Redesign 1: small multiples| |
 |--|:--|
-|<img src="https://policyviz.com/wp-content/uploads/2018/01/MerrillLynch_BrokenStackedColumnChart.png" width=400/>|<ul><li>breaks the bars and gives each section it's own aligned axis</li><li>highlight just the categories of Restaurants, Groceries, <br/>Electronics/Hobbies/Clothing since those are the ones mentioned in the text</li><li>still a little busy</li></ul>|
+|<img src="imgs/aligned-stack.png" width=400/>|<ul><li>breaks the bars and gives each section it's own aligned axis</li><li>highlight just the categories of Restaurants, Gasoline, and Groceries <br/>(was meant to be Electronics/Hobbies/Clothing instead of Gasoline) since those are the ones mentioned in the text</li><li>still a little busy</li></ul>|
 
 |Redesign 2: line chart| |
 |--|:--|
-|<img src="https://policyviz.com/wp-content/uploads/2018/01/MerrillLynch_LineChart.png" width=400/>|<ul><li>age ranges are at least ordered, so this mapping is ok</li><li>can find trends, but can't see part-to-whole relationship</li></ul>|
+|<img src="imgs/line.png" width=400/>|<ul><li>age ranges are at least ordered, so this mapping is ok</li><li>can find trends, but can't see part-to-whole relationship</li></ul>|
 
 |Redesign 3: pie chart| |
 |--|:--|
-|<img src="https://policyviz.com/wp-content/uploads/2018/01/MerrillLynch_PieCharts.jpg" width=400/>|<ul><li>focus is on how the 3 segments (Restaurants, Groceries, <br/>Electronics/Hobbies/Clothing) sum to around 50%</li><li>hard to see: How much spending on Restaurants has changed from the Millennial to Traditionalist generation?</li><li>easy to do: Millennials spend more than half of their budget on these three categories while Traditionalists don’t</li></ul>|
+|<img src="imgs/pie.jpeg" width=400/>|<ul><li>focus is on how the 3 segments (Restaurants, Groceries, Gasoline <br/>(was meant to be Electronics/Hobbies/Clothing) sum to around 50%</li><li>hard to see: How much spending on Restaurants has changed from the Millennial to Traditionalist generation?</li><li>easy to do: Millennials spend more than half of their budget on these three categories while Traditionalists don’t</li></ul>|
 
 Final change - title
 * "Consumer Spending by Generation" doesn't illustrate the main point
