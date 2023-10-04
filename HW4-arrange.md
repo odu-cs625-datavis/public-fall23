@@ -1,6 +1,6 @@
 # Homework 4: Arrange Tables
 
-**Due:** Wednesday, October 23, 2023 by 11:59pm  
+**Due:** Wednesday, October 25, 2023 by 11:59pm  
 
 The goal of this assignment is to propose and implement charts based on questions asked about real-world data.  You will be demonstrating that you can choose and implement charts using appropriate idioms for the data and task, incorporating chart design principles that we have covered.
 
