@@ -22,9 +22,9 @@ Table 91 - Women Who Have Had a Child in the Last Year by Age
 
 **Q2:** How does this compare to the number of women in each age group who had a child (not necessarily their first) in that year? What does this say about the age of women giving birth in the US?
 
-**Extra Credit [2 points]:** Combine the data from Tables 91 and 92 (Women Who Have Had a Child in the Last Year By Selected Characteristics) to investigate other factors that affect this.
-
 **Further Questions:** What further questions does this prompt?  What hypotheses do you have about what the answers might be?  Are there other tables that might help you address these questions?  
+
+**Extra Credit [2 points]:** Combine the data from Tables 91 and 92 (Women Who Have Had a Child in the Last Year By Selected Characteristics) to investigate other factors that affect this.
 
 ### Dataset 2
 
@@ -34,9 +34,9 @@ Table 118 - Death Rates for Major Causes of Death--States and Island Areas
 
 **Q2:** Is this ordering different if you compare deaths due to disease vs. deaths due to accident, injury, and assault?  In other words, which states are more hazardous to your health vs. which states are the most dangerous?
 
-**Extra Credit [2 points]:** Combine this data with the state population distribution by age (found in Table 16 in [Section 1. Population](https://www.census.gov/library/publications/2009/compendia/statab/129ed/population.html)) to investigate other factors that might affect this. (It's ok that the death data is from 2006 and the population data is from 2008 -- it's close enough.)
-
 **Further Questions:** What further questions does this prompt? What hypotheses do you have about what the answers might be?  Are there other tables that might help you address these questions?  
+
+**Extra Credit [2 points]:** Combine this data with the state population distribution by age (found in Table 16 in [Section 1. Population](https://www.census.gov/library/publications/2009/compendia/statab/129ed/population.html)) to investigate other factors that might affect this. (It's ok that the death data is from 2006 and the population data is from 2008 -- it's close enough.)
 
 ### Dataset 3
 
@@ -47,9 +47,9 @@ Table 107 - Death Rates by Age, Sex, and Race
 
 **Q2:** Using Table 107, compare infant mortality rates (under 1 year) for these same categories between 1980-1999.
 
-**Extra Credit [2 points]:** Combine the data from Tables 102 and 107 to investigate how infant mortality might affect overall life expectancy.
-
 **Further Questions:** What further questions does this prompt?  What hypotheses do you have about what the answers might be?  Are there other tables that might help you address these questions?  
+
+**Extra Credit [2 points]:** Combine the data from Tables 102 and 107 to investigate how infant mortality might affect overall life expectancy.
 
 ## Assignment
 
