@@ -16,7 +16,7 @@ Ok job. Not all questions answered correctly, and/or some fairly significant for
 
 ## C - 7/10
 
-Needs work. Several questions answered incorrectly, and/or major formatting/spelling/grammatical errors.
+Needs work. Several questions answered incorrectly, required elements missing, and/or major formatting/spelling/grammatical errors.
 
 ## F - 5/10
 
