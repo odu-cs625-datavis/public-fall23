@@ -1,6 +1,7 @@
 # Semester Project
 
-**Due:** Wednesday, December 6 by 11:59pm
+**Due:** Wednesday, December 6 by 11:59pm  
+*Update (11/28): report is due Monday, December 11 by 11:59pm*
 
 The main goal of this semester project is for you to take the knowledge and background that you are learning this semester about data visualization and put it to good use in a new, creative effort.  The end product is a static *explanatory* visualization (i.e., a single chart or group of charts presented in a single panel) that reveals something interesting.  (Three previous projects are highlighted in this [blog post](https://ws-dl.blogspot.com/2022/12/2022-12-02-visualization-class-projects.html) under the CS 625 heading, though note that they had a slightly different assignment.)
 
